@@ -1,0 +1,2 @@
+1. Sự khác nhau giữa render và re-render
+    
